@@ -2,7 +2,7 @@
 Poster for the ASTMH 2022 annual meeting buliding on the idea of encoding spatial prios, and proposing to encode aggregated continuous priors (e.g. aggregated Gaussian Processes) to the level of administrative units. It allows to 
 
 - represent processes more realististially by viewing them as continuous,
-- enable fast and afficient inference by using encoded aggregates prior with a variational autoencoder (VAE).
+- enable fast and afficient inference by using encoded priors of aggreagtes with a variational autoencoder (VAE).
 
 Related references:
 
